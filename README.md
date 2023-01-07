@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning C++ for later use in the field
 - 💞️ I’m looking to collaborate on any video game projects.
 - 📫 How to reach me 
-  - [My Website](Niall-Sharma.github.io](https://portfolio-updated-khaki.vercel.app/)
+  - [My Website](https://portfolio-updated-khaki.vercel.app/)
