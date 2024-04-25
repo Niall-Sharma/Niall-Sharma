@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Niall-Sharma
 - 👀 I’m interested in web development
-- 💞️ I’m looking to collaborate on any video game projects.
 - 📫 How to reach me 
   - [My Website](https://www.niallsharma.click/)
