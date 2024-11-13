@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Niall-Sharma
-- 👀 I’m interested in web development
+- 👀 I’m interested in applied programming and reearch
 - 📫 How to reach me 
   - [My Website](https://www.niallsharma.click/)
