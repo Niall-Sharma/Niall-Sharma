@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Niall-Sharma
-- 👀 I’m interested in applied programming and reearch
+- 👀 I’m interested in applied programming and research
 - 📫 How to reach me 
   - [My Website](https://www.niallsharma.click/)
