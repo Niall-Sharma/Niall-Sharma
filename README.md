@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Niall-Sharma
-- 👀 I’m interested in applied programming and research
+- 👀 I’m interested in game programming research
 - 📫 How to reach me 
   - [My Website](https://www.niallsharma.click/)
